@@ -27,3 +27,8 @@ The mangle part is a little strange because mangle applies `Infectous Wounds` so
 
 This is only intended for absolute beginners and should be replaced when they understand more about the game.
 
+### Jikun
+
+![Jikun Feed Young](mop/jikun.png)
+
+The Ji'Kun fight is simple enough, and all I wanted was a way to make sure I got the buff from `Feed Young`, which grants stacks of what is called `Primal Nutriment`, and there two distinct SpellID's to track for this, instead of a stack you get separate distinct buffs.  This is a very simple weakaura that you can place anywhere.

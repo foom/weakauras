@@ -19,7 +19,7 @@ It has some layover from cataclysm as well for tracking procs from `Fangs of the
 Is designed for feral newbies to simply keep track of:
 - Rake
 - Mangle
-- Rake
+- Rip
 - Savage Roar
 - Combo Points
 
